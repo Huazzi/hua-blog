@@ -1,0 +1,42 @@
+# - class_name: 世界各地夕阳与风景
+#   path_name: /wordScenery
+#   type: 2
+#   description: 因为到不了世界各地，所以请网友们发来了各地的夕阳与风景🌇。
+#   cover: https://bu.dusays.com/2023/04/09/64329399d1175.jpg
+#   top_background: https://bu.dusays.com/2023/06/30/649e546ada7dd.webp
+#   rowHeight: 220
+#   limit: 10
+#   lazyload: true
+#   btnLazyload: false
+#   url: false
+#   top_link: /album
+#   top_btn_text: 返回
+#   album_list:
+#     - date: 2022/10/26 01:00:00
+#       content: 湘潭的一角。
+#       address: 湖南湘潭
+#       from: 再吃一口就减肥
+#       image:
+#         - https://bu.dusays.com/2023/04/09/64329399db122.webp
+#     - date: 2022-10-25
+#       content: 洛阳暴雨后的天空。
+#       address: 河南洛阳
+#       from: 紫菜卷
+#       image:
+#         - https://bu.dusays.com/2023/04/09/64329399db122.webp
+#         - https://bu.dusays.com/2023/04/09/64329399db2e1.webp
+
+- class_name: 大学生活琐碎
+  path_name: /collegeLife
+  type: 1
+  description: 这里存放的是我在大学生活的一些碎片。
+  top_link: /album
+  top_btn_text: 返回
+  top_background: https://cbc25ff.webp.li/college1.png
+  cover: https://cbc25ff.webp.li/college1.png
+  album_list:
+    - date: 2025-02-24
+      content: 和室友一起出去聚餐
+      image:
+        - https://cdn.jsdelivr.net/gh/Huazzi/myBlog-Photos@latest/gallery/记002.jpg
+        - https://cdn.jsdelivr.net/gh/Huazzi/myBlog-Photos@latest/gallery/记001.jpg
