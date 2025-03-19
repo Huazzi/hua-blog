@@ -1,13 +1,14 @@
 ---
 title: 整理收集到的「SVG生成提示词」
-date: 2025-03-17 23:07:34
-tags: 
+tags:
   - Prompt
   - AI
   - 工具
 categories:
   - Prompt
-cover: https://cbc25ff.webp.li/claude-prompt-cover.jpg
+cover: 'https://cbc25ff.webp.li/221440.webp'
+abbrlink: 42109
+date: 2025-03-17 23:07:34
 ---
 {% note info %}
 记录整理一下找到的大佬们分享的「SVG生成提示词」

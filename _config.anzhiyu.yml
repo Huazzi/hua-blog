@@ -31,11 +31,17 @@ nav:
         - name: 博客
           link: https://huazzi.me/
           icon: /favicon.ico
-    # - title: 项目
-    #   item:
-    #     - name: 安知鱼图床
-    #       link: https://image.anheyu.com/
-    #       icon: https://image.anheyu.com/favicon.ico
+    - title: 项目
+      item:
+        - name: 五子棋
+          link: https://planewar.us.kg/
+          icon: https://cbc25ff.webp.li/gomoku.ico
+        - name: 飞机大战
+          link: https://planewar.us.kg/
+          icon: https://cbc25ff.webp.li/hua-cdn/game01.png
+        - name: 贪吃蛇
+          link: https://greedysnack.webgame.us.kg/
+          icon: https://cbc25ff.webp.li/hua-cdn/game02.png
 
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
 # 注意： 仅网站首页变灰，其他页面正常显示
@@ -164,7 +170,7 @@ cover:
   # When cover is not set, the default cover is displayed (当没有设置cover时，默认的封面显示)
   default_cover:
     - https://cbc25ff.webp.li/freecute.webp
-    # - https://cbc25ff.webp.li/freecute.webp # 可多设置几张，随机显示
+    - https://cbc25ff.webp.li/hua-cdn/012.jpg # 可多设置几张，随机显示
 
 # Replace Broken Images (替换无法显示的图片)
 error_img:
