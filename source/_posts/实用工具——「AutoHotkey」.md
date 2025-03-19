@@ -1,11 +1,12 @@
 ---
 title: 效率工具「AutoHotkey」
-cover: https://cbc25ff.webp.li/hua-cdn/005.jpg
+cover: 'https://cbc25ff.webp.li/hua-cdn/005.jpg'
 categories:
-  - [技术]
-  - [工具]
+  - - 技术
+  - - 工具
 tags:
   - 效率工具
+abbrlink: 13096
 date: 2024-12-31 17:34:46
 ---
 

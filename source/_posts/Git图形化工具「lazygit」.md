@@ -2,11 +2,12 @@
 title: Git图形化工具「lazygit」
 cover: 'https://cbc25ff.webp.li/hua-cdn/git1.jpg'
 categories:
-  - [Git]
-  - [工具]
+  - - Git
+  - - 工具
 tags:
   - Git
   - 效率工具
+abbrlink: 52653
 date: 2025-01-29 17:20:11
 ---
 

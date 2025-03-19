@@ -1,11 +1,12 @@
 ---
 title: MySQL安装多版本与版本切换
-cover: https://cbc25ff.webp.li/hua-cdn/MySQL.jpg
+cover: 'https://cbc25ff.webp.li/hua-cdn/MySQL.jpg'
 categories:
   - 技术
 tags:
   - MySQL
   - 数据库
+abbrlink: 22748
 date: 2025-02-28 22:06:00
 ---
 

@@ -1,11 +1,12 @@
 ---
 title: 意外之喜—「CrossFire」
-covder: https://cbc25ff.webp.li/hua-cdn/009.jpg
+covder: 'https://cbc25ff.webp.li/hua-cdn/009.jpg'
 categories:
   - 随笔
 tags:
   - 散记
   - 学习
+abbrlink: 42664
 date: 2024-12-26 13:44:50
 ---
 

@@ -6,6 +6,7 @@ categories:
 tags:
   - Scoop
   - Winget
+abbrlink: 41633
 date: 2025-03-01 21:06:00
 ---
 
