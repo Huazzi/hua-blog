@@ -23,7 +23,7 @@
       siteshot: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.6/img/blog.anheyu.com.jpg
       color: vip
       tag: 技术
-      - name: 张洪Heo
+    - name: 张洪Heo
       link: https://blog.zhheo.com/
       avatar: https://img.zhheo.com/i/67d8fa75943e4.webp
       descr: 分享设计与科技生活
@@ -53,7 +53,7 @@
       recommend: false
     - name: wljay Blog
       link: https://blog.wljay.cn/
-      avatar: 
+      avatar:
       descr: wljay Blog
       recommend: false
     - name: Asteri5m的小破站
