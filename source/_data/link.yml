@@ -23,9 +23,16 @@
       siteshot: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.6/img/blog.anheyu.com.jpg
       color: vip
       tag: 技术
+      - name: 张洪Heo
+      link: https://blog.zhheo.com/
+      avatar: https://img.zhheo.com/i/67d8fa75943e4.webp
+      descr: 分享设计与科技生活
+      siteshot: https://img.zhheo.com/i/67d8fb5f563ff.webp
+      color: vip
+      tag: 技术
 
 - class_name: 小伙伴
-  class_desc: 那些人，那些事
+  class_desc: 有幸遇到的小伙伴们
   flink_style: anzhiyu
   hundredSuffix: ""
   link_list:
@@ -33,4 +40,29 @@
       link: https://inkcodes.com/
       avatar: https://weavatar.com/avatar/53e97c1d70144099d065a94b7c0eb71c4f0b3e63bf82da230626abb4acee83b2
       descr: 读书，学习，睡觉
-      recommend: true
+      recommend: false
+    - name: Cloud
+      link: https://www.cloudofficial.top/
+      avatar: https://raw.githubusercontent.com/cloud-oc/FileHub/refs/heads/main/root/Picture/Cloud.ico
+      descr: 写作即自由
+      recommend: false
+    - name: Leehow的小站
+      link: https://www.haoyep.com
+      avatar: https://www.haoyep.com/avatar.jpg
+      descr: Leehow的个人博客，好耶！
+      recommend: false
+    - name: wljay Blog
+      link: https://blog.wljay.cn/
+      avatar: 
+      descr: wljay Blog
+      recommend: false
+    - name: Asteri5m的小破站
+      link: https://asteri5m.icu/
+      avatar: https://asteri5m.icu/upload/20af907e-4769-4251-8e8c-0f0b52355380.png
+      descr: 别等时间不够的时候再后悔
+      recommend: false
+    - name: Class3 的 Space
+      link: https://space.class3.fun/
+      avatar: https://space.class3.fun/upload/logo-new-1.png
+      descr: Amid the ruins, hope still blooms|废墟中仍绽放希望
+      recommend: false
