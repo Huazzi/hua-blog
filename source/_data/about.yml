@@ -77,18 +77,18 @@
     comic_tips: 爱好番剧
     comic_title: 追番
     comic_list:
-      #     - name: 约定的梦幻岛
-      #       href: https://www.bilibili.com/bangumi/media/md5267750/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
-      #       cover: https://bu.dusays.com/2023/05/27/647166c44b414.webp
       - name: 咒术回战
         href: https://www.bilibili.com/bangumi/media/md28229899/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
         cover: https://cbc25ff.webp.li/zs.webp
-      #     - name: 紫罗兰永恒花园
-      #       href: https://www.bilibili.com/bangumi/media/md8892/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
-      #       cover: https://bu.dusays.com/2023/05/24/646db43983d99.webp
       - name: 鬼灭之刃
         href: https://www.bilibili.com/bangumi/media/md22718131/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
         cover: https://cbc25ff.webp.li/gm.webp
+      #     - name: 约定的梦幻岛
+      #       href: https://www.bilibili.com/bangumi/media/md5267750/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+      #       cover: https://bu.dusays.com/2023/05/27/647166c44b414.webp
+      #     - name: 紫罗兰永恒花园
+      #       href: https://www.bilibili.com/bangumi/media/md8892/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+      #       cover: https://bu.dusays.com/2023/05/24/646db43983d99.webp
   #     - name: JOJO的奇妙冒险 黄金之风
   #       href: https://www.bilibili.com/bangumi/media/md135652/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
   #       cover: https://bu.dusays.com/2023/05/30/64760e38d651a.webp
