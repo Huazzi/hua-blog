@@ -37,7 +37,7 @@
         color: "#357ef5"
       - desc: EDU,计算机科学与技术专业
         color: "#357ef5"
-    img: https://bu.dusays.com/2023/04/21/644287166329b.png
+    img: https://cbc25ff.webp.li/expe.svg
   statistic:
     link: /archives
     text: 文章隧道
@@ -67,7 +67,7 @@
   buff:
     buff_tips: 特长
     buff_top: 好像没什么 特长
-    buff_bottom: 二次元指数 MAX
+    buff_bottom: 求知欲 MAX
   game:
     game_tips: 玩的游戏
     game_title: 王者荣耀
@@ -80,30 +80,30 @@
       #     - name: 约定的梦幻岛
       #       href: https://www.bilibili.com/bangumi/media/md5267750/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
       #       cover: https://bu.dusays.com/2023/05/27/647166c44b414.webp
-      #     - name: 咒术回战
-      #       href: https://www.bilibili.com/bangumi/media/md28229899/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
-      #       cover: https://bu.dusays.com/2023/05/24/646db4398832e.webp
+      - name: 咒术回战
+        href: https://www.bilibili.com/bangumi/media/md28229899/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://cbc25ff.webp.li/zs.webp
       #     - name: 紫罗兰永恒花园
       #       href: https://www.bilibili.com/bangumi/media/md8892/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
       #       cover: https://bu.dusays.com/2023/05/24/646db43983d99.webp
       - name: 鬼灭之刃
         href: https://www.bilibili.com/bangumi/media/md22718131/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
-        cover: https://bu.dusays.com/2023/05/24/646db439856a0.webp
+        cover: https://cbc25ff.webp.li/gm.webp
   #     - name: JOJO的奇妙冒险 黄金之风
   #       href: https://www.bilibili.com/bangumi/media/md135652/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
   #       cover: https://bu.dusays.com/2023/05/30/64760e38d651a.webp
   like:
     like_tips: 关注偏好
-    like_title: 数码科技
+    like_title: 运动竞技|数码科技
     like_bg: https://cbc25ff.webp.li/digital.jpg
-    like_bottom: 手机、电脑软硬件
+    like_bottom: 运动竞技、电子产品
   music:
     music_tips: 音乐偏好
-    music_title: 纯音乐 | 英文歌 | 华语流行
+    music_title: 纯音乐|英文歌|华语流行
     music_bg: https://cbc25ff.webp.li/music2.png
     music_link: /music
   reward_list:
-    # - name: The Truth That Your Leave
+    # - name:
     #   amount: 10
     #   datatime: 2015-03-15
   #   - name: LK66
