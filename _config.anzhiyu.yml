@@ -30,7 +30,7 @@ nav:
       item:
         - name: 博客
           link: https://huazzi.me/
-          icon: /favicon.ico
+          icon: /img/favicon.ico
     - title: 项目
       item:
         - name: 五子棋
@@ -143,7 +143,7 @@ katex:
 # --------------------------------------
 
 # Favicon（网站图标）
-favicon: /favicon.ico
+favicon: /img/favicon.ico
 
 # Avatar (头像)
 avatar:
@@ -477,9 +477,9 @@ footer:
       # - title: facebook
       #   link: https://www.facebook.com/profile.php?id=100092208016287&sk=about
       #   icon: anzhiyu-icon-facebook1
-      - title: RSS
-        link: atom.xml
-        icon: anzhiyu-icon-rss
+      # - title: RSS
+      #   link: atom.xml
+      #   icon: anzhiyu-icon-rss
     right:
       - title: Github
         link: https://github.com/Huazzi
@@ -1249,10 +1249,10 @@ inject:
     # 自定义css
     # - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
     - <link rel="stylesheet" href="https://chinese-fonts-cdn.deno.dev/packages/stdgt/dist/%E4%B8%8A%E5%9B%BE%E4%B8%9C%E8%A7%82%E4%BD%93-%E5%B8%B8%E8%A7%84/result.css" media="defer" onload="this.media='all'">
-    - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
+    - <link rel="stylesheet" href="/css/custom_cursor.css" media="defer" onload="this.media='all'">
   bottom:
     # 自定义js
-    # - <script src="/js/xxx"></script>
+    - <script src="/js/custom.js"></script>
 
 # CDN
 # Don't modify the following settings unless you know how they work
