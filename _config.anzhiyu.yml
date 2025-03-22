@@ -166,7 +166,7 @@ cover:
   archives_enable: true
   # the position of cover in home page (封面显示的位置)
   # left/right/both
-  position: both
+  position: left
   # When cover is not set, the default cover is displayed (当没有设置cover时，默认的封面显示)
   default_cover:
     - https://cbc25ff.webp.li/freecute.webp
@@ -622,17 +622,17 @@ site_verification:
 
 theme_color:
   enable: true
-  main: "#0F7393"
-  dark_main: "#285943"
-  paginator: "#0F7393"
+  main: "#285943"
+  dark_main: "#004e66"
+  paginator: "#285943"
   # button_hover: "#FF7242"
-  text_selection: "#2128bd"
+  text_selection: "#285943"
   link_color: "var(--anzhiyu-fontcolor)"
   meta_color: "var(--anzhiyu-fontcolor)"
   hr_color: "#4259ef23"
   code_foreground: "#fff"
   code_background: "var(--anzhiyu-code-stress)"
-  toc_color: "#0F7393"
+  toc_color: "#285943"
   #   blockquote_padding_color: "#425AEF"
   #   blockquote_background_color: "#425AEF"
   scrollbar_color: "var(--anzhiyu-scrollbar)"
@@ -843,7 +843,7 @@ aside:
     sort_order: # Don't modify the setting unless you know how it works
     highlightTags:
       - Hexo
-      # - 前端
+      - 技术
   card_archives:
     enable: true
     type: monthly # yearly or monthly
@@ -914,7 +914,7 @@ centerConsole:
     sort_order: # Don't modify the setting unless you know how it works
     highlightTags:
       - Hexo
-      # - 前端
+      - 技术
   card_archives:
     enable: true
     type: monthly # yearly or monthly
@@ -1072,8 +1072,8 @@ home_top:
       shadow: var(--anzhiyu-shadow-red)
       class: red
       icon: anzhiyu-icon-fire
-    - name: 生活
-      path: /categories/生活/
+    - name: 随笔
+      path: /categories/随笔/
       shadow: var(--anzhiyu-shadow-green)
       class: green
       icon: anzhiyu-icon-book
