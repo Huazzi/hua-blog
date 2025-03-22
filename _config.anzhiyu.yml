@@ -1249,7 +1249,7 @@ inject:
     # 自定义css
     # - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
     - <link rel="stylesheet" href="https://chinese-fonts-cdn.deno.dev/packages/stdgt/dist/%E4%B8%8A%E5%9B%BE%E4%B8%9C%E8%A7%82%E4%BD%93-%E5%B8%B8%E8%A7%84/result.css" media="defer" onload="this.media='all'">
-    # - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
+    - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
   bottom:
     # 自定义js
     # - <script src="/js/xxx"></script>
