@@ -1083,7 +1083,7 @@ home_top:
     swiper_css: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.css #swiper css依赖
     swiper_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.js #swiper js依赖
   banner:
-    tips: 学不可以已-今日诗词
+    tips: 「今日诗词」
     title: 须知少日拏云志，曾许人间第一流
     image: https://cbc25ff.webp.li/sunset01.webp
     link: /
