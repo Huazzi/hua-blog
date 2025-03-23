@@ -1,6 +1,6 @@
 ---
 title: Fluid主题自定义字体
-cover: 'https://cbc25ff.webp.li/hua-cdn/20250221224444354.png'
+cover: 'https://i1.wp.com/dev.ruom.top/i/2025/03/23/739816.webp'
 categories:
   - 技术
 tags:

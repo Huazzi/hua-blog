@@ -1,6 +1,6 @@
 ---
 title: Typora美化
-cover: 'https://cbc25ff.webp.li/hua-cdn/typora.png'
+cover: 'https://i1.wp.com/dev.ruom.top/i/2025/03/23/914162.webp'
 categories:
   - 技术
 tags:

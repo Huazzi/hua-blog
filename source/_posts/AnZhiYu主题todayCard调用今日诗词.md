@@ -1,11 +1,12 @@
 ---
 title: AnZhiYu主题todayCard调用今日诗词
-date: 2025-03-23 12:33:56
 categories:
   - 折腾
 tags:
   - 折腾
   - Hexo
+abbrlink: 4357
+date: 2025-03-23 12:33:56
 ---
 ## 预期实现的功能
 

@@ -1,6 +1,6 @@
 ---
 title: PicGo配置S3遇到的URL问题解决方案
-cover: 'https://cbc25ff.webp.li/PicGo.webp'
+cover: 'https://i1.wp.com/dev.ruom.top/i/2025/03/23/968359.webp'
 categories: 折腾
 tags:
   - PicGo
