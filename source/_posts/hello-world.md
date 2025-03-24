@@ -2,6 +2,7 @@
 title: Hello World
 katex: true
 abbrlink: 16107
+date: 2025-01-17 17:28:54
 ---
 ## 数学公式测试
 $$\boxed{e = c \times m^2}$$
