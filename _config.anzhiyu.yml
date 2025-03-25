@@ -170,6 +170,7 @@ cover:
   # When cover is not set, the default cover is displayed (当没有设置cover时，默认的封面显示)
   default_cover:
     - https://cbc25ff.webp.li/freecute.webp
+    - https://cbc25ff.webp.li/hua-cdn/trees.jpg
     - https://cbc25ff.webp.li/hua-cdn/012.jpg # 可多设置几张，随机显示
 
 # Replace Broken Images (替换无法显示的图片)
@@ -1067,16 +1068,16 @@ home_top:
       shadow: var(--anzhiyu-shadow-blue)
       class: blue
       icon: anzhiyu-icon-dove
-    - name: 大学
-      path: /categories/大学/
-      shadow: var(--anzhiyu-shadow-red)
-      class: red
-      icon: anzhiyu-icon-fire
     - name: 随笔
       path: /categories/随笔/
       shadow: var(--anzhiyu-shadow-green)
       class: green
       icon: anzhiyu-icon-book
+    - name: 大学
+      path: /categories/大学/
+      shadow: var(--anzhiyu-shadow-red)
+      class: red
+      icon: anzhiyu-icon-fire
   default_descr: 再怎么看我也不知道怎么描述它的啦！
   swiper:
     enable: false
