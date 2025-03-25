@@ -17,7 +17,7 @@ url: https://huazzi.me
 # permalink: :year/:month/:day/:title/
 # permalink_defaults:
 # 使用 abbrlink 插件，优化文章永久链接为数字编号
-permalink: posts/:abbrlink/
+permalink: posts/:abbrlink.html
 abbrlink:
   alg: crc16 # 算法，可以选择 md5, crc16, crc32 等
   rep: dec # 表示方式，dec 为十进制，hex 为十六进制
