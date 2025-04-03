@@ -106,7 +106,9 @@ theme: anzhiyu
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ""
+  type: git
+  repo: git@115.29.226.235:/www/git/hua-blog.git
+  branch: master
 
 # 音乐馆
 # APlayer
