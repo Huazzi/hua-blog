@@ -107,7 +107,7 @@ theme: anzhiyu
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@115.29.226.235:/www/git/hua-blog.git
+  repo:
   branch: master
 
 # 音乐馆
