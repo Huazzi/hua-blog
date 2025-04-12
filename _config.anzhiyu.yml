@@ -34,13 +34,13 @@ nav:
     - title: 项目
       item:
         - name: 五子棋
-          link: https://planewar.us.kg/
+          link: https://gomoku-game-dkt.pages.dev/
           icon: https://cbc25ff.webp.li/gomoku.ico
         - name: 飞机大战
-          link: https://planewar.us.kg/
+          link: https://planegame.pages.dev/
           icon: https://cbc25ff.webp.li/hua-cdn/game01.png
         - name: 贪吃蛇
-          link: https://greedysnack.webgame.us.kg/
+          link: https://greedysnack.pages.dev/
           icon: https://cbc25ff.webp.li/hua-cdn/game02.png
 
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
