@@ -15,7 +15,7 @@ date: 2025-04-29 23:51:00
 
 ## 效果预览
 
-![渐变色下划线动画效果](https://i-blog.csdnimg.cn/img_convert/4b8a091e2397d824bec91128a6337482.gif)
+![渐变色下划线动画效果](https://cbc25ff.webp.li/UnderLine-Motion.gif)
 
 ## 完整代码实现
 
