@@ -1,11 +1,12 @@
 ---
 title: 「Caddy」Web服务器
-date: 2025-04-10 23:20:29
-cover: https://cbc25ff.webp.li/caddy.png
+cover: 'https://cbc25ff.webp.li/caddy.png'
 categories: 技术
 tags:
   - Web
-  - Caddy 
+  - Caddy
+abbrlink: 58016
+date: 2025-04-10 23:20:29
 ---
 # 🚀 Caddy：现代化、自动 HTTPS 的 Web 服务器新星！
 
