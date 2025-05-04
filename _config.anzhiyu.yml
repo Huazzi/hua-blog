@@ -33,6 +33,9 @@ nav:
           icon: /img/favicon.ico
     - title: 项目
       item:
+        - name: 2MarkDown
+          link: https://2markdown.huazzi.site/
+          icon: https://cbc25ff.webp.li/2markdown-icon.ico
         - name: 五子棋
           link: https://gomoku-game-dkt.pages.dev/
           icon: https://cbc25ff.webp.li/gomoku.ico
