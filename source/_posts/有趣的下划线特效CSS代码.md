@@ -1,6 +1,5 @@
----
 title: 有趣的下划线特效CSS代码
-cover: 'https://cbc25ff.webp.li/underline-motion.webp'
+cover: https://cbc25ff.webp.li/underline-motion.webp
 tags:
   - css
 categories: 技术
@@ -36,14 +35,14 @@ date: 2025-04-29 23:51:00
             margin: 0;
             background-color: #f5f5f5;
         }
-        
+      
         .title {
             text-align: center;
             line-height: 1.5;
             font-size: 2.5rem;
             color: #333;
         }
-        
+      
         .underline-animation {
             /* 初始状态：完全透明 */
             background: linear-gradient(to right, #ec695c, #61c454) no-repeat right bottom;
@@ -51,7 +50,7 @@ date: 2025-04-29 23:51:00
             transition: background-size 0.5s ease-in-out;
             padding-bottom: 2px;
         }
-        
+      
         .underline-animation:hover {
             /* 悬停状态：完全显示 */
             background-position-x: left;
@@ -162,14 +161,13 @@ transition: background-size 0.8s cubic-bezier(0.25, 0.1, 0.25, 1);
 ## 性能优化建议
 
 1. **硬件加速**：添加`will-change`属性提示浏览器优化
+
    ```css
    .underline-animation {
        will-change: background-size;
    }
    ```
-
 2. **减少重绘**：避免在动画过程中改变其他属性
-
 3. **精简代码**：合并相同属性的声明
 
 ## 实际应用场景
@@ -183,6 +181,7 @@ transition: background-size 0.8s cubic-bezier(0.25, 0.1, 0.25, 1);
 
 **Q：为什么我的下划线不显示？**
 A：请检查：
+
 - 元素是否设置了足够的`padding-bottom`空间
 - 背景是否被其他样式覆盖
 - 渐变颜色是否与背景色太接近
